@@ -83,7 +83,7 @@ const Hero = () => {
                             fontWeight: 500,
                         }}
                     >
-                        CEO of AJ Consulting.
+                        CEO of AJ Consulting and AJ Squared (AJ²).
                     </motion.h2>
 
                     <motion.p
@@ -99,7 +99,7 @@ const Hero = () => {
                         }}
                     >
                         Driving business growth and innovation through strategic leadership.
-                        Specializing in management consulting, digital transformation, and organizational excellence.
+                        Specializing in management and technology consulting, digital transformation, Ai, and organizational excellence.
                     </motion.p>
 
                     <motion.div
