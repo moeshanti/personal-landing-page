@@ -7,9 +7,9 @@ const Experience = () => {
         {
             id: 1,
             role: 'CEO',
-            company: 'AJ Management Consulting',
+            company: 'AJ Consulting then AJ²',
             period: 'Mar 2006 - Present',
-            description: 'Leading the firm in providing top-tier management consulting services. Overseeing strategic direction, client relations, and operational growth.',
+            description: 'Leading the firm in providing top-tier management and cutting-edge technology consulting services and products. Overseeing strategic direction, client relations, and operational growth.',
             current: true,
         },
         {
@@ -30,10 +30,10 @@ const Experience = () => {
         },
         {
             id: 4,
-            role: 'Regional Business Dev Manager',
+            role: 'Regional Business Dev Manager and Consulting & Integration Practice Manager',
             company: 'HP',
             period: 'Mar 2003 - Jul 2005',
-            description: ' drove business development initiatives across the region, focusing on enterprise solutions and strategic alliances.',
+            description: ' drove business development initiatives across the region, focusing on enterprise solutions (SAP and Oracle ERP) and strategic alliances.',
             current: false,
         },
         {
@@ -41,7 +41,7 @@ const Experience = () => {
             role: 'Regional Principal',
             company: 'IBM',
             period: 'Sep 2000 - Mar 2003',
-            description: 'Managed key consulting engagements and client relationships in the Middle East region.',
+            description: 'Managed key tech consulting engagements and client relationships in the Middle East region.',
             current: false,
         },
         {
@@ -49,7 +49,7 @@ const Experience = () => {
             role: 'Regional Manager',
             company: 'Swiss International Air Lines',
             period: 'Jan 1999 - Sep 2000',
-            description: 'Oversaw regional operations and strategy for the airline group.',
+            description: 'Oversaw regional operations and strategy for the airline group specifically its technology offerings via SwissAir specialist tech firm (Atraxis).',
             current: false,
         },
         {
@@ -57,7 +57,7 @@ const Experience = () => {
             role: 'Senior Managing Consultant',
             company: 'PwC',
             period: 'Jan 1996 - Jan 1999',
-            description: 'Led management consulting projects focusing on process improvement and organizational change.',
+            description: 'Led management consulting projects focusing on technology, ERP, process improvement and organizational change.',
             current: false,
         },
         {
