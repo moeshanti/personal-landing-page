@@ -64,7 +64,7 @@ const About = () => {
                                 <p style={{ color: 'var(--text-secondary)', fontSize: '1.05rem', lineHeight: 1.7 }}>
                                     With over 25 years of experience in management and technology consulting, digital transformation, and technology innovation.
                                     I have held significant roles at multinational technology and consulting firms, driving strategic insights and practical solutions
-                                    for complex business challenges. Currently leading AJ Consulting and AJ Squared (a recent Pivot of AJ) to deliver integrated, value-focused digital transformation services and products (smart Ai-enabled platforms, apps & experineces.
+                                    for complex business challenges. Currently leading AJ Consulting & AJ Squared (AJ² is a recent pivot of AJ) to deliver integrated, value-focused digital transformation services and products- smart Ai-enabled platforms, apps & experineces.
                                 </p>
                             </div>
                         </div>
