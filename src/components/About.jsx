@@ -59,12 +59,12 @@ const About = () => {
                             </div>
                             <div>
                                 <h3 style={{ fontSize: '1.5rem', marginBottom: '1rem', color: 'var(--text-primary)' }}>
-                                    Professional Management Consultant
+                                    Professional Digital Transformation & Management Consultant
                                 </h3>
                                 <p style={{ color: 'var(--text-secondary)', fontSize: '1.05rem', lineHeight: 1.7 }}>
-                                    With over 25 years of experience in management consulting, digital transformation, and technology innovation.
+                                    With over 25 years of experience in management and technology consulting, digital transformation, and technology innovation.
                                     I have held significant roles at multinational technology and consulting firms, driving strategic insights and practical solutions
-                                    for complex business challenges. Currently leading AJ Consulting to deliver integrated, value-focused digital transformation services.
+                                    for complex business challenges. Currently leading AJ Consulting and AJ Squared (a recent Pivot of AJ) to deliver integrated, value-focused digital transformation services and products (smart Ai-enabled platforms, apps & experineces.
                                 </p>
                             </div>
                         </div>
@@ -99,7 +99,7 @@ const About = () => {
                         <Award size={32} color="var(--accent-purple)" style={{ marginBottom: '1rem' }} />
                         <h3 style={{ fontSize: '1.25rem', marginBottom: '0.5rem' }}>4x Webby Winner</h3>
                         <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>
-                            Judge and Member of the International Academy of Digital Arts and Sciences.
+                            Judge and Member of the International Academy of Digital Arts and Sciences and Webby Awards (The Webby Awards are the premier international awards for digital excellence, often called the "Internet's highest honor" recognizing top work in websites, apps, video, advertising, podcasts, social media, and emerging categories like AI.
                         </p>
                         <style>{`
               @media (min-width: 768px) {
