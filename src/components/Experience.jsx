@@ -30,7 +30,7 @@ const Experience = () => {
         },
         {
             id: 4,
-            role: 'Regional Business Dev Mgr + Consulting & Integration Practice Mgr',
+            role: 'Regional Business Dev + Consulting & Integration Practice Mgr',
             company: 'HP- HP Global Services',
             period: 'Mar 2003 - Jul 2005',
             description: 'Drove business development and large scale implementation initiatives across the region, focusing on enterprise solutions (SAP & Oracle ERP) and strategic alliances.',
@@ -63,9 +63,9 @@ const Experience = () => {
         {
             id: 8,
             role: 'Senior Consultant',
-            company: 'KPMG',
+            company: 'KPMG Consulting',
             period: 'Sep 1994 - Jan 1996',
-            description: 'Provided consulting services in financial management and operational efficiency.',
+            description: 'Provided consulting services in technolgy management, ERP and operational efficiency.',
             current: false,
         },
         {
